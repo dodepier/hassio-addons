@@ -1,10 +1,10 @@
 # hassio-addons
-hass.io addons by Philipp Schmitt
+hass.io addons by Philipp Schmitt , edit By Dodepier
 
 Edit By Dodepier
 
 Add to Home Assistant using the repository url: 
-https://github.com/pschmitt/hassio-addons
+https://github.com/dodepier/hassio-addons
 
 ## flicd
 
